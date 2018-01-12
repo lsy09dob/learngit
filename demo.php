@@ -2,7 +2,7 @@
 /*
  * 发起支付页面
  */ 
-echo 60;
-echo 61;
-echo 62;
+echo 23;
+echo 24;
+echo 25;
 ?>
